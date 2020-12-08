@@ -5,7 +5,7 @@
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 |  工具  | Android  | Win  |  
 |  ----  | ----   | ----  |  
-| [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
+| [v2ray](#v2ray)  | [v2rayNG](https://vip.d0.baidupan.com/file/?BWNXaQ8+ADFSWwszADVdMQc4BT1Wf1ZmV31SJgc6Vi5UGlshWlBSb1JqUWNRalwqUHlVtVChUPBSs1DeV7wD5QWuV68PfAAuUm0LLQByXToHNAVsVmxWC1c5UjAHZlZkVGdbNVo0UjRSMFEyUTFce1BsVSNQMlBgUmZQYlc4AzMFNVcwD2cAclJ0Cy0AaV1uB20FMlY5VntXYVJmB3RWZ1RsWyNaMVI1UmdRMFFnXD5QbFVlUDtQN1IzUGBXaQMyBTRXNw82ADdSZgs5AGddawdvBTBWMVY2V2NSNgc+VjNUMVttWilSfFJtUXdRI1woUHlVNVB9UDtSMVBrVzoDMAU1VzgPYwBkUj0LewAgXTUHMAVlVm9WaVdhUmIHa1ZgVGBbP1o3UjVSPVE1UStcc1AsVTZQY1AlUmhQZlctA3cFdVd3D28AZVIyC20AY11oB28FOVY7VmxXZ1JyBy5WPlQkWzFaNlI0UjFRKVE9XGhQJFViUD9QYlJ7UGVXOA==) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
 | [shadowsocksR](#SSR)  |[ssrray-android](https://vip.d0.baidupan.com/file/?AmRWaFxtDj9WXwE5Cj9TPwY5AjpfcwFwB3IAdFJvB39UeVZzCzNVbVVmBzBRdl05A3QHMQJzCjBQeVNgAHJVNQJyVmpcJw48VmkBOwo7Uw0GNQJjXz0BMAczAD9SPQc0VGBWMAtvVSdVZQciUThdbgNhBzsCbQoxUGVTYABtVXICclZxXDwOaFYwAWUKblN9Bm0CNV8vATMHOAApUj8HNVRhVjILZlU0VWUHaVExXTkDaAc7AmwKOFBgUzMAPlU2AjBWZVw5DmhWMAEzCj9TMQY4AjZfMAFhBzgAP1IgB2dUJFZqC3BVdFVwBzRRd101Az0HPwJsCjpQZ1NtAG1VZAI7VidcdQ4zVm0BMgo4U28GbQIxXzABNAc0ADVSPgc1VGRWNAt4VS9VJQc3UWldKwNkBzICewp9UCdTIgBhVWUCNFYxXDYOblYyAW4KbFNlBmkCIV91AWoHcAA7Uj8HNFRhVi8LblU0VS0HY1E1XWwDdwcxAm4=) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
 ### v2rayN翻墙软件使用教程：[点击查看](https://github.com/jimmy-1/jiaocheng)  
 ### 节点导入方法  
