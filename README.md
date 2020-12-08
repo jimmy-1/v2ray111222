@@ -12,7 +12,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图�
 ### SSR节点订阅  
 - `https://暂无
 ### v2ray(ss/trojan)节点订阅  
-- `https://raw.githubusercontent.com/jimmy-1/v2ray111222/main/v2 
+- `https://suo.yt/TKLcDKK
 ### 自定义节点订阅  
 为解决githubusercontent被屏蔽订阅无法更新问题，用开源模板搭了个订阅网站，有需要自取：[永久免费订阅](https://bulink.xyz)  
 ### v2ray/ssr免费节点暂时比较少。可以试试在线代理  
