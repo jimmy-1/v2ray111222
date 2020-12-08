@@ -6,7 +6,7 @@
 |  工具  | Android  | Win  |  
 |  ----  | ----   | ----  |  
 | [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
-| [shadowsocksR](#SSR)  |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
+| [shadowsocksR](#SSR)  |[ssrray-android](https://vip.d0.baidupan.com/file/?AmRWaFxtDj9WXwE5Cj9TPwY5AjpfcwFwB3IAdFJvB39UeVZzCzNVbVVmBzBRdl05A3QHMQJzCjBQeVNgAHJVNQJyVmpcJw48VmkBOwo7Uw0GNQJjXz0BMAczAD9SPQc0VGBWMAtvVSdVZQciUThdbgNhBzsCbQoxUGVTYABtVXICclZxXDwOaFYwAWUKblN9Bm0CNV8vATMHOAApUj8HNVRhVjILZlU0VWUHaVExXTkDaAc7AmwKOFBgUzMAPlU2AjBWZVw5DmhWMAEzCj9TMQY4AjZfMAFhBzgAP1IgB2dUJFZqC3BVdFVwBzRRd101Az0HPwJsCjpQZ1NtAG1VZAI7VidcdQ4zVm0BMgo4U28GbQIxXzABNAc0ADVSPgc1VGRWNAt4VS9VJQc3UWldKwNkBzICewp9UCdTIgBhVWUCNFYxXDYOblYyAW4KbFNlBmkCIV91AWoHcAA7Uj8HNFRhVi8LblU0VS0HY1E1XWwDdwcxAm4=) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
 ### v2rayN翻墙软件使用教程：[点击查看](https://github.com/jimmy-1/jiaocheng)  
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray/SSR节点  
